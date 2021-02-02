@@ -16,7 +16,7 @@ A minimalist Apex/Aura project to perform lookups to the Business Registry of th
 You can of course clone this repo and deploy using `sfdx` or Visual Studio.
 Alternatively, deploy from here:
 
-<a href="https://githubsfdeploy.herokuapp.com?owner=eschweitzer78&repo=AbrBusinessGovAuLookup&ref=main">
+<a href="https://githubsfdeploy.herokuapp.com">
   <img src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png" alt="Deploy to Salesforce" />
 </a>
 
